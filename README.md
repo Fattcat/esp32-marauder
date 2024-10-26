@@ -5,7 +5,7 @@ Custom esp32-marauder
 
 # How to upload code ?
 ## Follow this instructions down to correctly upload code
-### as first go to give STAR to JustCallMeCoco to his GitHub (he appreciate it a LOT)
+### as first go to give STAR to JustCallMeCoco to his GitHub (he deserves it a LOT)
 ### For MORE DETAILED Installation Go here
 - https://github.com/justcallmekoko/ESP32Marauder/wiki/installing-firmware-from-source
 - Download this repo (click GREEN BUTTON "Code" and download .zip file)
