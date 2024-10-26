@@ -10,9 +10,11 @@ Custom esp32-marauder
 - https://github.com/justcallmekoko/ESP32Marauder/wiki/installing-firmware-from-source
 - Download this repo (click GREEN BUTTON "Code" and download .zip file)
 - when you downloaded it, then UNZIP it and open in Arduino IDE this file "esp32_marauder.ino"
+- ! Also UNZIP "libraries.rar" (Download Win RAR for it) and paste that libraries to your ARDUINO LIBRARY FOLDER !
 - Plug in your esp32 to your PC
 - in Arduino IDE Sellect this board "Esp32 Dev Module" and sellect correct  
 - add "ap.config.txt" to your SD Card (! MUST BE THERE !)
+
 
 ## Evil Portals
 - If you want to add Evil Portals (html) u need to attack SD Card (I RECCOMMEND 8 GB Capacity !, cuz when I tried 32 GB it then does not work)
