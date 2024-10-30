@@ -32,6 +32,7 @@ esp32 -> TFT Touch 240x320px Display 2.8 Inch
 - SCK -> D18
 - LED -> connect to esp32 pin 3.3V
 - MISO -> D19
+- T_CLK -> D18
 - T_CS -> D21
 - T_DIN -> D23
 - T_DO -> D19
