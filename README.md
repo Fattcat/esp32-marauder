@@ -44,5 +44,12 @@ esp32 -> TFT Touch 240x320px Display 2.8 Inch
 - SD_SCK -> D18
 - SD_CS -> D12
 
+## GPS Module (neo 6m)
+### This is not necessary but is useful when is part of full pack :D
+- VCC -> 5V
+- GND -> GND
+- TX -> D4
+- RX -> D13
+
 ## This down was Fixed
 - TFT Display Touch inverted
