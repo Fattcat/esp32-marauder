@@ -3,6 +3,8 @@ Custom esp32-marauder
 ## Created by JustCallMeCoco
 ## Edited by Fattcat
 
+# Please give me STAR
+
 # How to upload code ?
 ## Follow this instructions down to correctly upload code
 ### as first go to give STAR to JustCallMeCoco to his GitHub (he deserves it a LOT)
