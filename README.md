@@ -6,6 +6,7 @@ Custom esp32-marauder
 # Please give me STAR
 
 # How to upload code ?
+### check IMG !
 ## Follow this instructions down to correctly upload code
 ### as first go to give STAR to JustCallMeCoco to his GitHub (he deserves it a LOT)
 ### For MORE DETAILED Installation Go here
