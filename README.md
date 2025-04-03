@@ -22,7 +22,7 @@ Custom esp32-marauder
 - When it shows connecting .... (and here lot of dots) PRESS and HOLD ***BOOT*** Button on your esp32
 - then press and release ***EN*** button and release ***BOOT*** button
 - This ensure to switch esp32 into ***Flashing Mode***.
-- Not it should be good to go.
+- Now, it should be good to go.
 
 
 ## Evil Portals
