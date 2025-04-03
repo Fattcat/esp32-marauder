@@ -3,7 +3,7 @@ Custom esp32-marauder
 ## Created by JustCallMeCoco
 ## Edited by Fattcat
 
-# Please give me STAR
+## Please give me STAR
 
 # How to upload code ?
 ### check IMG !
@@ -17,6 +17,12 @@ Custom esp32-marauder
 - Plug in your esp32 to your PC
 - in Arduino IDE Sellect this board "Esp32 Dev Module" and sellect correct  
 - add "ap.config.txt" to your SD Card (! MUST BE THERE !)
+- After all changes DO NOT FORGET to save, and hit upload button (button located on top leftcorner and arrow pointing to right side)
+- It can take 2 - 3 minutes to compile
+- When it shows connecting .... (and here lot of dots) PRESS and HOLD ***BOOT*** Button on your esp32
+- then press and release ***EN*** button and release ***BOOT*** button
+- This ensure to switch esp32 into ***Flashing Mode***.
+- Not it should be good to go.
 
 
 ## Evil Portals
