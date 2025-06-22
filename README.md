@@ -3,9 +3,32 @@ Custom esp32-marauder
 ## Created by JustCallMeCoco
 ## Edited by Fattcat
 
+
+# This repo CONTAINS 2 versions of esp32 marauder
+- Option 1. CYD 2-USB esp32-marauder
+- Option 2. esp32 DevBoard (With 5V PIN) esp32-marauder
+  - For option 2. - use guide 
+
+## Guide for CYD esp32 marauder
+- open [WebUploader](https://esp.huhn.me/)
+- connect your CYD to USB port
+- click on connect on website
+- sellect your board COM port
+-  go to esp32 Marauder for more info [github-here](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater)
+- upload files and as shown down on [WebUploader](https://esp.huhn.me/):
+- Bootloader file to 0x1000
+- Partitions file to 0x8000
+- Boot App file to 0xE000
+- Firmware file to 0x10000
+- click erase files
+- continue with that and check popup window
+- then hit flash files to your CYD - it can take 2 minutes
+- after flashing then press RST button on the back on CYD board and after that disconnect from USB port on PC
+- Then power it on and woala, it should works
 ## Please give me STAR
 
-# How to upload code ?
+## Guide for DevBoard esp32 board marauder
+(that board is using 5V pin and external WiFi ANtenna) and TFT 2.8 ILI9341 Display
 ### check IMG !
 ## Follow this instructions down to correctly upload code
 ### as first go to give STAR to JustCallMeCoco to his GitHub (he deserves it a LOT)
