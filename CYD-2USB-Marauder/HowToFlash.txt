@@ -1,0 +1,3 @@
+// 2-USB CYD, esp32-marauder Version - 1.7.0
+// SD - Need to use with files !
+// STATUS: Works!
